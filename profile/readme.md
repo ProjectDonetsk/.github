@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://raw.githubusercontent.com/ProjectDonetsk/.github/main/assets/main.gif" alt="Header">
+    <img src="https://raw.githubusercontent.com/ProjectDonetsk/.github/main/assets/main.gif" alt="Header">
 </p>
 <h1 align="center">Project DONETSK</h1>
 <p align="center">A Modern Warfare 2019 & Warzone Project</p>
