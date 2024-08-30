@@ -26,3 +26,11 @@ Thank you for your understanding.
 
 Best regards,  
 The Team at [Donetsk.Live](https://donetsk.live)
+
+---
+
+**Disclaimer:** 
+
+We want to make it clear that we are not accountable or responsible for any actions you take with this code or project. Use it at your own risk. By continuing to use this project, you acknowledge that the code is provided "as-is" without any warranties, and you assume all responsibility for its use.
+
+---
